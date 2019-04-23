@@ -23,7 +23,7 @@ The game proceeds as follows:
 - If the two face-up cards match, they remain open.
 - If the two cards do not match, they will automatically turn around after a short time.
 
-The star rating 
+The star rating:
 
 - The game has a star rating. At the start three stars are displayed. 
 - Each uncovering of 2 cards is counted as 1 move.
