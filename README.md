@@ -32,7 +32,7 @@ The star ranking
 - After 8-13 moves, the number of stars is reduced to 2.
 - After 14 or more moves, the number of stars is reduced to 1.
 
-The game continues until the player has uncovered all 8 pairs one after the other. The player can restart the game at any time by pressing the reset button. The reset also resets the play time that starts when the player clicks for the first time. When the player has uncovered all card pairs, a pop-up informs him about his star ranking and the required game time.
+The game continues until the player has uncovered all 8 pairs. The player can restart the game at any time by pressing the reset button. The reset also resets the play time that starts when the player clicks on a card for the first time. When the player has uncovered all card pairs, a pop-up informs him about his star ranking and required game time.
 
 ## Ressources
 
