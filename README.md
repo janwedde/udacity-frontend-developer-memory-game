@@ -36,9 +36,4 @@ The game continues until the player has uncovered all 8 pairs one after the othe
 
 ## Ressources
 
-Shuffle function from <a href:"https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array/2450976#2450976">stackoverflow</a>.
-
-## Contributing
-
-
-
+Shuffle function from <a href="https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array/2450976#2450976">stackoverflow</a>.
