@@ -5,13 +5,13 @@
 * [General](#rules)
 * [Rules](#rules)
 * [Ressources](#ressources)
-* [Contributing](#contributing)
 
 ## General
 
 Memory Game is a browser-based card matching game.
 The game is part of the Nanodegree program "Front-End Web Developer" of Udacity.
-You can access the game here.
+
+<img src="./img/screenshot-memory-game.JPG" alt="memory game">
 
 ## Rules
 
