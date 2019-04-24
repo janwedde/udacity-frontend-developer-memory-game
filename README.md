@@ -34,4 +34,7 @@ The game continues until the player has uncovered all 8 pairs. The player can re
 
 ## Ressources
 
-Shuffle function from <a href="https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array/2450976#2450976">stackoverflow</a>.
+- Shuffle function from <a href="https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array/2450976#2450976">stackoverflow</a>.
+- Background pattern by Subtle Patterns
+- <a href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">Icons</a> by Font Awesome
+- <a href="https://fonts.googleapis.com/css?family=Coda">Coda</a> by Google Fonts
